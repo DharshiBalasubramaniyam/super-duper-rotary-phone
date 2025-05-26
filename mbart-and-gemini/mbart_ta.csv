@@ -1,0 +1,16 @@
+id,original_query,en_query,faithfulness_score,answer_correctness_score,context_relevance_score
+1,ஒரு குழந்தையை தத்தெடுக்க தேவைப்பட்டால் தத்தெடுக்கக்கூடிய குழந்தையின் அதிகபட்ச வயது என்ன?,What is the maximum age of a child to be adopted if a child is required to be adopted?,5,5,5
+2,ஒரு குழந்தையை தத்தெடுக்க விண்ணப்பிக்கக் கூடிய நபருக்கான அடிப்படை தகுதிகள் என்ன?,What are the basic qualifications of a person who can apply to adopt a child?,5,5,5
+3,தத்தெடுக்கப்பட்ட ஒரு குழந்தையின் பிறப்பை பதிவு செய்ய எந்த ஆவணங்கள் தேவைப்படுகிறது?,What documents are required to register the birth of an adopted child?,5,5,5
+4,பதிவுசெய்யப்பட்ட தோட்டத்தில் பிறந்த குழந்தையின் பிறப்பை யாரால் அறிவிக்கலாம்?,Who can declare the birth of a child born in a registered garden?,5,5,5
+5,தோட்ட மேலாளர் மூலம் பதிவு செய்யப்பட்ட பிறப்புச் சான்றிதழ் எங்கு பெறலாம்?,Where can I get a birth certificate registered by the garden manager?,5,5,5
+6,இலங்கையில் வெளிநாட்டில் பிறந்த குழந்தையின் பிறப்பை பிந்தைய பதிவு செய்வதற்கான தேவையான ஆவணங்கள் என்ன?,What documents are required for post birth registration of a child born abroad in Sri Lanka?,5,5,5
+7,பிறப்புச் சான்றிதழ் நகலை எங்கு பெற்றுக்கொள்ளலாம்?,Where can I get a birth certificate?,5,5,5
+8,பிறப்புச் சான்றிதழின் எண்ணும் பதிவு தேதியும் தெரியாமல் நகலைப் பெற விரும்பினால் கட்டணம் எவ்வளவு?,How much is the fee if you want to get a certificate without knowing the date of registration and number of birth certificate?,5,5,5
+9,தபாலில் பிறப்புச் சான்றிதழ் பெற விரும்பும் போது என்னென்ன சமர்ப்பிக்க வேண்டும்?,What should I submit when I want to get a birth certificate in Dabal?,5,5,2
+10,பிறப்புச் சான்றிதழின் மொழிபெயர்க்கப்பட்ட நகலை எங்கே பெற முடியும்?,Where can I get a translated copy of birth certificate?,5,5,5
+11,பிறப்புச் சான்றிதழின் மொழிபெயர்க்கப்பட்ட நகலுக்கான கட்டணமும் காலப்பொருத்தமும் என்ன?,What is the cost and timing of translated birth certificate?,5,5,5
+12,பிறப்பு வீட்டில் நிகழ்ந்தால் அந்த பிறப்பை எவ்வாறு பதிவு செய்ய வேண்டும்?,"If the birth occurs at home, how should the birth be recorded?",5,5,5
+13,பிறப்பு பதிவு செய்ய தேவையான ஆவணங்கள் என்னென்ன?,What are the necessary documents for birth registration?,5,5,5
+14,பிறப்பு 3 மாதத்திற்கு பின் பதிவு செய்ய முடியுமா?,Is it possible to register 3 months after birth?,5,5,5
+15,கடந்த பிறப்பு பதிவு செய்ய தேவையான ஆவணங்கள் என்னென்ன?,What are the documents required to register past birth?,5,5,5
