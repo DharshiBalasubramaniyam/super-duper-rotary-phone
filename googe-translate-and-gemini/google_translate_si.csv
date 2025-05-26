@@ -1,0 +1,16 @@
+id,original_query,en_query,faithfulness_score,answer_correctness_score,context_relevance_score
+1,දරුවෙකු තාත්තා ගැනීම සඳහා උපරිම වයස කීයද?,What is the maximum age for a child to be adopted?,5,5,5
+2,දරුවෙකු තාත්තා ගැනීමට අයදුම්කරුවෙකුට තිබිය යුතු මූලික සුදුසුකම් මොනවාද?,What are the basic qualifications an applicant must have to adopt a child?,5,5,5
+3,තාත්තා ගත් දරුවාගේ උපත නැවත ලියාපදිංචි කිරීම සඳහා අවශ්‍ය ලේඛන මොනවාද?,What documents are required to re-register the birth of a child taken from the father?,5,5,1
+4,ලියාපදිංචි කර ඇති වතුයෙහි උපන් දරුවෙකුගේ උපත කවුද දැනුම් දිය හැක්කේ?,Who can notify the birth of a child born on a registered estate?,5,5,5
+5,වතුපිළිඹඳ උපන් සහතිකය ලබා ගත හැක්කේ කොතැනින්ද?,Where can I obtain a birth certificate for estates?,5,5,3
+6,ශ්‍රී ලංකාවේ විදේශ උපතක් පසුකාලීනව ලියාපදිංචි කිරීමට අවශ්‍ය ලේඛන මොනවාද?,What documents are required to later register a foreign birth in Sri Lanka?,5,5,5
+7,උපන් සහතිකයක නකලක් ලබා ගත හැක්කේ කොහෙදිද?,Where can I get a copy of a birth certificate?,5,5,5
+8,උපන් සහතිකයේ අංකය සහ ලියාපදිංචි දිනය නොදැන සිටින විට නකලක් ලබා ගැනීම සඳහා ගාස්තුව කීයද?,What is the fee for obtaining a copy of the birth certificate when the number and registration date are not known?,5,5,5
+9,තැපැල් මගින් උපන් සහතිකය ලබා ගැනීමට අවශ්‍ය ලේඛන මොනවාද?,What documents are required to obtain a birth certificate by mail?,5,5,2
+10,උපන් සහතිකයේ පරිවර්තිත පිටපතක් ලබා ගැනීමට හැකි ස්ථාන මොනවාද?,Where can I get a translated copy of my birth certificate?,5,5,5
+11,උපන් සහතික පරිවර්තනයකට ගාස්තුව සහ කාලය කීයද?,What is the fee and time for a birth certificate translation?,5,5,5
+12,ගෙදර උපතක් වූවිට එය ලියාපදිංචි කිරීමේ ක්‍රමවේදය කුමක්ද?,What is the procedure for registering a home birth?,5,5,5
+13,උපත ලියාපදිංචි කිරීමට අවශ්‍ය ලේඛන මොනවාද?,What documents are required to register a birth?,5,5,5
+14,උපත 3 මාසයකට පසුව ලියාපදිංචි කළ හැකිද?,Can the birth be registered 3 months later?,5,5,5
+15,අතුරු උපතක් ලියාපදිංචි කිරීමට අවශ්‍ය ලේඛන මොනවාද?,What documents are required to register a stillbirth?,5,5,1
