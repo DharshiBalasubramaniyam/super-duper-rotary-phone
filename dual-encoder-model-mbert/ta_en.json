@@ -1,0 +1,122 @@
+[
+  {
+    "question": "நிலவில் முதன்முதலில் காலடி வைத்தவர் யார்?",
+    "positive_passage": "Neil Armstrong was the first person to walk on the Moon in 1969."
+  },
+  {
+    "question": "உலகின் நீளமான நதி எது?",
+    "positive_passage": "The Nile River is considered the longest river in the world."
+  },
+  {
+    "question": "பை சங்கிலி பீரியட் அட்டவணையில் எதைக் குறிக்கிறது?",
+    "positive_passage": "The periodic table organizes chemical elements by increasing atomic number and recurring properties."
+  },
+  {
+    "question": "மின்னழுத்தம் அளவிடும் கருவி என்ன?",
+    "positive_passage": "A voltmeter is used to measure electric potential difference, or voltage."
+  },
+  {
+    "question": "மனித உடலில் மிக நீளமான எலும்பு எது?",
+    "positive_passage": "The femur, or thigh bone, is the longest bone in the human body."
+  },
+  {
+    "question": "நிலாவிற்கு பூமி சுற்றும் காலம் என்ன?",
+    "positive_passage": "The Moon takes about 27.3 days to orbit the Earth."
+  },
+  {
+    "question": "மின்னோட்டம் உண்டாகும் காரணம் என்ன?",
+    "positive_passage": "Electric current is caused by the flow of electrons through a conductor."
+  },
+  {
+    "question": "முதல் கணினி என்னவாகும்?",
+    "positive_passage": "ENIAC is considered one of the first general-purpose electronic digital computers."
+  },
+  {
+    "question": "பண்டைய எகிப்தியர்களின் எழுத்து முறையை என்னவென்றும் அழைப்பார்கள்?",
+    "positive_passage": "The writing system of ancient Egyptians is called hieroglyphics."
+  },
+  {
+    "question": "பசுமை வீடுகள் எதற்காக முக்கியம்?",
+    "positive_passage": "Green buildings are important because they use resources efficiently and reduce environmental impact."
+  },
+  {
+    "question": "காந்தங்களை யார் கண்டுபிடித்தார்?",
+    "positive_passage": "Magnetism was studied extensively by William Gilbert in the 16th century."
+  },
+  {
+    "question": "ஆரம்ப கால மொபைல் போன்கள் எவ்வாறு இருந்தன?",
+    "positive_passage": "Early mobile phones were large and bulky, used mainly for voice communication."
+  },
+  {
+    "question": "பூமியின் சுற்றுச்சூழல் எதனால் பாதிக்கப்படுகிறது?",
+    "positive_passage": "The environment is affected by pollution, deforestation, and climate change."
+  },
+  {
+    "question": "அணுக்கள் தொடர்புடைய முக்கிய அறிவியல் துறை எது?",
+    "positive_passage": "Atomic theory is a fundamental part of the science of chemistry and physics."
+  },
+  {
+    "question": "அணுகுண்டு யார் உருவாக்கினார்?",
+    "positive_passage": "The atomic bomb was developed during the Manhattan Project under the leadership of scientists like J. Robert Oppenheimer."
+  },
+  {
+    "question": "மனித உடலில் இரத்தக் குழாய்கள் என்ன வேலை செய்கின்றன?",
+    "positive_passage": "Blood vessels transport blood throughout the body, delivering oxygen and nutrients."
+  },
+  {
+    "question": "கம்ப்யூட்டர் மெமரி வகைகள் எவை?",
+    "positive_passage": "Computer memory includes types like RAM, ROM, cache, and secondary storage."
+  },
+  {
+    "question": "ஆஸ்கார் விருது எந்த துறையில் வழங்கப்படுகிறது?",
+    "positive_passage": "The Oscars, or Academy Awards, are given for achievements in the film industry."
+  },
+  {
+    "question": "மத்திய கிழக்கு என்றால் எந்த பகுதியை குறிக்கின்றது?",
+    "positive_passage": "The Middle East refers to a region that includes Western Asia and parts of North Africa."
+  },
+  {
+    "question": "ஈசாக் நியூட்டன் கண்டுபிடித்தது என்ன?",
+    "positive_passage": "Isaac Newton is famous for formulating the laws of motion and universal gravitation."
+  },
+  {
+    "question": "படங்கள் எடுக்கும் கருவி என்ன?",
+    "positive_passage": "A camera is a device used to capture photographs or video images."
+  },
+  {
+    "question": "மழை எப்படி உருவாகிறது?",
+    "positive_passage": "Rain forms when water vapor condenses into droplets and falls from clouds due to gravity."
+  },
+  {
+    "question": "மெளனராக இருப்பது எப்போது தேவையாகும்?",
+    "positive_passage": "Silence is often necessary for meditation, reflection, or during solemn occasions."
+  },
+  {
+    "question": "விண்வெளியில் சத்தம் ஏன் கேட்க முடியாது?",
+    "positive_passage": "Sound cannot travel in space because it requires a medium like air to propagate."
+  },
+  {
+    "question": "முதல் மனிதர் யார் என்று கூறப்படுகிறது?",
+    "positive_passage": "According to science, Homo habilis is one of the earliest known human species."
+  },
+  {
+    "question": "மனிதர்கள் உணவை ஏன் சாப்பிட வேண்டும்?",
+    "positive_passage": "Humans need food to obtain energy and nutrients necessary for survival and growth."
+  },
+  {
+    "question": "நமது கண்கள் எவ்வாறு பார்வை பெறுகின்றன?",
+    "positive_passage": "Eyes detect light and send signals to the brain, enabling vision."
+  },
+  {
+    "question": "திங்கள் சந்திரனின் தமிழ் பெயர் என்ன?",
+    "positive_passage": "The Tamil word for Moon is 'திங்கள்' (Thingal)."
+  },
+  {
+    "question": "விண்ணில் பளிச்சென ஒளி வீசும் பொருட்கள் என்ன?",
+    "positive_passage": "Stars are luminous celestial bodies that emit light and are visible in the night sky."
+  },
+  {
+    "question": "மனித உடலில் இரத்த வகைகள் எத்தனை?",
+    "positive_passage": "There are four main blood types: A, B, AB, and O."
+  }
+]
